@@ -1,16 +1,48 @@
-# React + Vite
+output : https://drive.google.com/file/d/1bdGB5ervePxeLViQqgY0J3wYxfwMnGGM/view?usp=sharing
+# TextUtils
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A React.js web application that provides useful text manipulation and analysis tools. Users can quickly transform text and view real-time statistics.
 
-Currently, two official plugins are available:
+## ✨ Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+* Convert text to UPPERCASE
+* Convert text to lowercase
+* Clear text
+* Copy text to clipboard
+* Remove extra spaces
+* Word count
+* Character count
+* Reading time estimation
+* Live text preview
 
-## React Compiler
+## 🛠️ Tech Stack
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+* React.js
+* JavaScript
+* HTML5
+* CSS3
 
-## Expanding the ESLint configuration
+## 🚀 Getting Started
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+```bash
+git clone <repository-url>
+cd textutils
+npm install
+npm start
+```
+
+Open `http://localhost:3000` in your browser.
+
+## 📚 Learning Outcomes
+
+* React Components
+* useState Hook
+* Event Handling
+* State Management
+* Responsive UI Design
+
+## 👨‍💻 Author
+
+**Sahil Dara**
+
+If you like this project, consider giving it a ⭐ on GitHub.
