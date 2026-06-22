@@ -29,7 +29,7 @@ export default function Login({ credentials }) {
   return (
     <div className="d-flex justify-content-center align-items-center" style={{height:'100vh'}}>
     <div
-      className="container d-flex flex-column align-items-center justify-content-center bg-black text-white rounded-4"
+      className="container d-flex flex-column align-items-center justify-content-center bg-blue text-white rounded-4"
       style={{ height: '400px', width: '400px' }}
     >
       <form>
