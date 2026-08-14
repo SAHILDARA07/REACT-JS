@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "Rahul Sharma",
+    "email": "rahul@gmail.com",
+    "city": "Ahmedabad"
+  },
+  {
+    "id": 2,
+    "name": "Priya Mehta",
+    "email": "priya@gmail.com",
+    "city": "Surat"
+  },
+  {
+    "id": 3,
+    "name": "Aman Patel",
+    "email": "aman@gmail.com",
+    "city": "Vadodara"
+  },
+  {
+    "id": 4,
+    "name": "Kavya Shah",
+    "email": "kavya@gmail.com",
+    "city": "Rajkot"
+  },
+  {
+    "id": 5,
+    "name": "Rohan Joshi",
+    "email": "rohan@gmail.com",
+    "city": "Jaipur"
+  },
+  {
+    "id": 6,
+    "name": "Simran Kapoor",
+    "email": "simran@gmail.com",
+    "city": "Pune"
+  },
+  {
+    "id": 7,
+    "name": "Aditya Verma",
+    "email": "aditya@gmail.com",
+    "city": "Indore"
+  },
+  {
+    "id": 8,
+    "name": "Nisha Patel",
+    "email": "nisha@gmail.com",
+    "city": "Surat"
+  },
+  {
+    "id": 9,
+    "name": "Kunal Desai",
+    "email": "kunal@gmail.com",
+    "city": "Mumbai"
+  },
+  {
+    "id": 10,
+    "name": "Isha Gupta",
+    "email": "isha@gmail.com",
+    "city": "Delhi"
+  },
+  {
+    "id": 11,
+    "name": "Harsh Trivedi",
+    "email": "harsh@gmail.com",
+    "city": "Ahmedabad"
+  },
+  {
+    "id": 12,
+    "name": "Snehal Joshi",
+    "email": "snehal@gmail.com",
+    "city": "Nashik"
+  },
+  {
+    "id": 13,
+    "name": "Yash Thakur",
+    "email": "yash@gmail.com",
+    "city": "Bhopal"
+  },
+  {
+    "id": 14,
+    "name": "Ananya Singh",
+    "email": "ananya@gmail.com",
+    "city": "Lucknow"
+  },
+  {
+    "id": 15,
+    "name": "Dhruv Patel",
+    "email": "dhruv@gmail.com",
+    "city": "Gandhinagar"
+  }
+]
